@@ -1,27 +1,22 @@
-<h1>Runbook</h1>
+<h1>Runbook Activity 1</h1>
 
 <h2>Description</h2>
-In this lab, I created an Active Directory Home Lab environment using Oracle Virtual Box. Configuring and running this lab helped me develop my understanding of how active directory and Windows networking functions.
+In this activity, I created a sample of a Runbook for a fake company that would be used in a new hire onboarding process. The steps outlined in this runbook should be followed to set up a new hire PC to ensure the PC is flawlessly connected to the network and they are all set to perform job tasks/functions once their PC is issued. Completing and documenting this activity helped me refresh my understanding of runbooks, active directory, and Windows OS.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+Microsoft Word
 
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
-
-<h2>Program walk-through:</h2>
+<h2>Activity:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+The Runbook: <br/>
 <img src="https://imgur.com/p8EdDUI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+Detailed Walk-Through:  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
