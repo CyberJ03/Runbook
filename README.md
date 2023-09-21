@@ -17,7 +17,19 @@ The Runbook: <br/>
 <br />
 <br />
 Detailed Walk-Through:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/pIipdgR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+<img src="https://imgur.com/4XrIyYY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+<img src="https://imgur.com/Q60l7co.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+<img src="https://imgur.com/AGc5pd0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+<img src="https://imgur.com/xiVOEB0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
